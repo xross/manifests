@@ -1,0 +1,3 @@
+[submodule "man_usb_audio"]
+	path = man_usb_audio
+	url = git@github.com:xross/man_usb_audio.git
