@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="ssh://git@github.com" />
+  <default remote="github" revision="master" />
+  <project name="git/git.git" path="git" />
+  <project name="xross/sw_usb_audio.git" path="sw_usb_audio" />
+</manifest>
